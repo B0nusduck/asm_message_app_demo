@@ -52,8 +52,3 @@ public class mainApp {
 	}
 
 }
-//note: app use mostly linear search
-//err hanlder 1 location sent msg function in device queue, input hanlder, happen when put wrong id into set msg
-//err hanlder 2 location assemble msg function in device, output handler, happen when asemble msg when there are no msg in the 
-//reciving queue
-//err hablder 3 location try catch in main to handle the inability to call function properly when invalid data is inputed
